@@ -1,0 +1,6 @@
+C:\Users\Joseph\Desktop\devcodecamp\NewCalculator\NewCalculator\bin\Debug\NewCalculator.exe.config
+C:\Users\Joseph\Desktop\devcodecamp\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Desktop\devcodecamp\NewCalculator\NewCalculator\bin\Debug\NewCalculator.exe
+C:\Users\Joseph\Desktop\devcodecamp\NewCalculator\NewCalculator\bin\Debug\NewCalculator.pdb
+C:\Users\Joseph\Desktop\devcodecamp\NewCalculator\NewCalculator\obj\Debug\NewCalculator.exe
+C:\Users\Joseph\Desktop\devcodecamp\NewCalculator\NewCalculator\obj\Debug\NewCalculator.pdb
